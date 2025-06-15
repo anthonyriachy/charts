@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charts", "charts\charts.csproj", "{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9B8D33-5EEA-45EB-B1D2-069186D0C0E3}
+	EndGlobalSection
+EndGlobal
