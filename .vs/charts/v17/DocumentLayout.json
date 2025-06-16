@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\charts\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\charts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|c:\\users\\user\\source\\repos\\charts\\charts\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|c:\\users\\user\\desktop\\charts\\charts\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|solutionrelative:charts\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\source\\repos\\charts\\charts\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\Desktop\\charts\\charts\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|solutionrelative:charts\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\source\\repos\\charts\\charts\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\Desktop\\charts\\charts\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|solutionrelative:charts\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\source\\repos\\charts\\charts\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\Desktop\\charts\\charts\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|solutionrelative:charts\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\source\\repos\\charts\\charts\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|C:\\Users\\user\\Desktop\\charts\\charts\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EAAC1BF8-BE56-4D65-B89E-5DE74EFEDEC1}|charts\\charts.csproj|solutionrelative:charts\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 268,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,11 +50,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\charts\\charts\\Default.aspx",
+              "RelativeDocumentMoniker": "charts\\Default.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\charts\\charts\\Default.aspx",
+              "RelativeToolTip": "charts\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T20:52:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\charts\\charts\\Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\charts\\charts\\Web.config",
               "RelativeDocumentMoniker": "charts\\Web.config",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\charts\\charts\\Web.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\charts\\charts\\Web.config",
               "RelativeToolTip": "charts\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -63,24 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\charts\\charts\\Default.aspx",
-              "RelativeDocumentMoniker": "charts\\Default.aspx",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\charts\\charts\\Default.aspx",
-              "RelativeToolTip": "charts\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-25T20:52:25.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\charts\\charts\\Site.Master",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\charts\\charts\\Site.Master",
               "RelativeDocumentMoniker": "charts\\Site.Master",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\charts\\charts\\Site.Master",
+              "ToolTip": "C:\\Users\\user\\Desktop\\charts\\charts\\Site.Master",
               "RelativeToolTip": "charts\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -91,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\charts\\charts\\Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\charts\\charts\\Default.aspx.cs",
               "RelativeDocumentMoniker": "charts\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\charts\\charts\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\charts\\charts\\Default.aspx.cs",
               "RelativeToolTip": "charts\\Default.aspx.cs",
               "ViewState": "AgIAACIAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,9 +107,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Bundle.config",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\charts\\charts\\Bundle.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\charts\\charts\\Bundle.config",
               "RelativeDocumentMoniker": "charts\\Bundle.config",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\charts\\charts\\Bundle.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\charts\\charts\\Bundle.config",
               "RelativeToolTip": "charts\\Bundle.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

@@ -107,7 +107,7 @@ namespace charts
                     {
                         cmd.CommandText = $@"
                         SELECT
-                            t1.Country AS Label,
+                            t1.LawYear AS Label,
                             t1.LawYear AS Year,
                             COUNT(*) AS Value,      
                             STUFF((
